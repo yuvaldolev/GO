@@ -1,5 +1,5 @@
 fastapi[all]
-meilisearch
+meilisearch-python-async
 python-multipart
 uvicorn
 aiofiles
